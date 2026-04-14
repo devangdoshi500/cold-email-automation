@@ -1,0 +1,25 @@
+# Google OAuth — never commit these
+credentials.json
+token.pickle
+token.json
+
+# Personal files
+*.pdf
+*.resume
+
+# Runtime data
+companies.csv
+profile_cache.txt
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Claude Code
+.claude/

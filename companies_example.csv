@@ -1,0 +1,2 @@
+name,website,contact_email,description,personalized_line,status,scheduled_time
+[Company Name],[https://company-website.com],[contact@company.com],[Scraped or manually entered description],[Claude-generated personalized line],[pending/sent/skip/gmail_scheduled],[YYYY-MM-DD HH:MM]
